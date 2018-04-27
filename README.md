@@ -21,5 +21,5 @@
 <a href="https://deporcetis.github.io/practica7.html">Practica #7 CARRUSEL</a>
   </p>
   <p>
-<a href="https://deporcetis.github.io/Practica8.html">Practica #8 MODALES</a>
+<a href="https://deporcetis.github.io/practica8.html">Practica #8 MODALES</a>
   </p>
