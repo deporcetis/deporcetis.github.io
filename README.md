@@ -1,6 +1,6 @@
 # deporcetis.github.io
 <p>
-<a href="https://deporcetis.github.io/Practica1.html">Practica #1 GRIDS</a> 
+<a href="https://deporcetis.github.io/practica1.html">Practica #1 GRIDS</a> 
 </p>
 <p>
 <a href="https://deporcetis.github.io/practica2.html">Practica #2 TABLAS</a>
